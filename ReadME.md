@@ -1,6 +1,4 @@
-
-
-###Description
+### Description
 
 1. **Initial Setup:**
    - The `my_history` and `opponent_history` lists represent the past moves of the player and their opponent, respectively. Each move is represented by an integer where `1` means cooperate and `0` means betray.
